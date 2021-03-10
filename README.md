@@ -23,4 +23,7 @@ The Nashville City Cemetery Association has asked you to create marketing materi
     b.	What are the most common last names of people buried in this cemetery?  
     c.	There was a particularly famous person buried in this cemetery. Can you find that person?
 
-7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were bur
+7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
+
+**Deliverables
+Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
