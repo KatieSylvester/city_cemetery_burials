@@ -1,6 +1,6 @@
-Worked on a marketing piece by exploring data provided by The Nashville City Cemetery Association.
+**Worked on a marketing piece by exploring data provided by The Nashville City Cemetery Association.
 
-We were tasked with using the questions below to explore the data, gain insights and then develop interesting charts for marketing materials.  The visualizations and marketing materials I created are on the PDF in the repo.
+**We were tasked with using the questions below to explore the data, gain insights and then develop interesting charts for marketing materials.  The visualizations and marketing materials I created are on the PDF in the repo.****
 
 -------------------------------------------
 
@@ -8,11 +8,11 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 
-1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a **bar chart**. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. You will need to **refresh your pivot table** to see changes applied. (For the new column you create, copy the column with `Cause of Death/Burial` and correct spelling errors only for causes that appear in your top 10 list).
+1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
 
 2. Create a line chart showing number of burials per year. In what years were there the most burials? Can you think of any plausible reason why?
 
-3. Examine deaths for each decade beginning with the 1850s. Look at the total number of deaths and the proportion of male deaths to female deaths. Use a **pivot table** with a **slicer** to do this, and create a clustered bar chart to show how male and female deaths have changed over time.
+3. Examine deaths for each decade beginning with the 1850s. Look at the total number of deaths and the proportion of male deaths to female deaths. Use a pivot table with a slicer to do this, and create a clustered bar chart to show how male and female deaths have changed over time.
 
 4. Next look at how age at the time of death has changed over time. Add a column to the original dataset to classify each row to one of the following categories (0-18, 19-25, 26-40, 41-64, and 65+). Be sure to think about a strategy to deal with missing values. Make a series of pie charts or donut charts to show the breakdown of each age group for these four periods: before 1880, 1881-1900, 1900-1920, after 1920.
 
