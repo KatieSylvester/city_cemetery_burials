@@ -35,6 +35,11 @@ The Nashville City Cemetery Association has asked you to create marketing materi
 
 Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
 
+![Marketing Materials page 1](../main/images/citycemeterypg1.png)
+
+![Marketing Materials page 2](../main/images/citycemeterypg2.png)
+
+
 -------------------------------------------
 ### How to read this repository
 
