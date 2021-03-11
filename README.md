@@ -43,3 +43,5 @@ Create a new sheet for each pivot table or analysis work done to create a visual
 -------------------------------------------
 ### How to read this repository
 
+The data analysis can be seen in the Excel file in the data folder.
+The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
