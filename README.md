@@ -1,10 +1,9 @@
 ## The Nashville City Cemetery
 
-#### We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
-
-
 ![Top 10 Causes of Death](../main/images/Top10CausesRevised.png)
 
+
+#### We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
 
 -------------------------------------------
 ### Data Exploration Questions
