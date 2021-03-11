@@ -1,4 +1,6 @@
-**Worked on a marketing piece by exploring data provided by The Nashville City Cemetery Association.**
+### The Nashville City Cemetery
+
+**We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel and developing a marketing piece. **
 
 
 ![Top 10 Causes of Death](../main/images/Top10CausesRevised.png)
@@ -6,7 +8,6 @@
 
 **We were tasked with using the questions below to explore the data, gain insights and then develop interesting charts for marketing materials.  The visualizations and marketing materials I created are on the PDF in the repo.**
 
--------------------------------------------
 
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
@@ -29,5 +30,12 @@ The Nashville City Cemetery Association has asked you to create marketing materi
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
-**Deliverables:**
-**Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.**
+
+-------------------------------------------
+### Deliverables
+
+Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
+
+-------------------------------------------
+### How to read this repository
+
