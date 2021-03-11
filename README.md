@@ -1,6 +1,8 @@
 **Worked on a marketing piece by exploring data provided by The Nashville City Cemetery Association.**
 
 
+![Top 10 Causes of Death](../main/images/Top10CausesRevised.jpeg)
+
 
 **We were tasked with using the questions below to explore the data, gain insights and then develop interesting charts for marketing materials.  The visualizations and marketing materials I created are on the PDF in the repo.**
 
