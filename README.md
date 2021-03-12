@@ -7,6 +7,7 @@
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Data Exploration Questions](#data)
+* [Analysis](#analysis)
 * [Files in this Repository](#files)
 <br>
 <br>
@@ -43,11 +44,10 @@ Project is created with:
     c.	There was a particularly famous person buried in this cemetery. Can you find that person?
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
+<br>
+<br>
 
-
--------------------------------------------
-### Deliverables
-
+## <a name="analysis"></a>Analysis
 Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
 
 ![Marketing Materials page 1](../main/images/citycemeterypg1.jpg)
