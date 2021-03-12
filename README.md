@@ -9,7 +9,6 @@
 * [Data Exploration Questions](#data)
 * [Analysis](#analysis)
 * [Files in this Repository](#files)
-<br>
 
 ## <a name="general-information"></a>General Information
 We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
@@ -22,7 +21,7 @@ The Nashville City Cemetery Association has asked you to create marketing materi
 Project is created with:
 * Excel for analysis and data visualizations
 * Canva for marketing material design and layout
-<br>
+
 ## <a name="data"></a>Data Exploration Questions
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
 
