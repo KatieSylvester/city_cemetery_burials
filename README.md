@@ -17,7 +17,7 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 We were tasked with exploring data on the Nashville City Cemetery utilizing Excel to gain insights and then further the data story by creating a marketing piece.
 <br>
-
+<br>
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
@@ -30,7 +30,7 @@ Project is created with:
 The data analysis can be seen in the Excel file in the data folder.
 The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
 <br>
-
+<br>
 
 ## <a name="data"></a>Data Exploration Questions
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
