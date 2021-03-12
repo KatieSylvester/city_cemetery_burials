@@ -10,12 +10,14 @@
 * [Analysis](#analysis)
 * [Files in this Repository](#files)
 
+
 ## <a name="general-information"></a>General Information
 We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 <br>
+
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
@@ -39,7 +41,7 @@ Project is created with:
     c.	There was a particularly famous person buried in this cemetery. Can you find that person?
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
-<br>
+
 
 ## <a name="analysis"></a>Analysis
 Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
