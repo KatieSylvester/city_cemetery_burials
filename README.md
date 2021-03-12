@@ -43,7 +43,7 @@ Project is created with:
 
 
 ## <a name="analysis"></a>Analysis
-Upon analyzing the data, I was interested to see the number of burials each year in comparison to a timeline of Nashville history.  I found a Nashville timeline .
+Upon analyzing the data, I was interested to see that nearly half of the burials are women, which was surprising to me given the large number of Civil War related burials.  I was also curious to see the number of burials each year in comparison to a timeline of Nashville history.  I found a timeline from the Nashville Historic Commission which divided Nashville's history into Nashville-specific eras
 
 ![Marketing Materials page 1](../main/images/citycemeterypg1.jpg)
 
