@@ -31,6 +31,7 @@ The data analysis can be seen in the Excel file in the data folder.
 The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
 <br>
 <br>
+<br>
 
 ## <a name="data"></a>Data Exploration Questions
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
@@ -53,7 +54,7 @@ The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf fi
 
 
 ## <a name="analysis"></a>Analysis/Conclusions
-This was a really messy data set, which was challenging, but it was interesting to explore.  Upon analyzing the data, I was interested to see that nearly half of the burials are women, which was surprising given the large number of Civil War related burials.  I was also curious to see the number of burials each year in comparison to a timeline of Nashville history.  I found a timeline from the Nashville Historic Commission which divided Nashville's history into eras and I grouped burials by those eras and then plotted it against the timeline in a bar chart.
+This was a really messy data set, which was challenging, but it was interesting to explore.  Upon analyzing the data, I was interested to see that nearly half of the burials are women, which was surprising given the large number of Civil War related burials.  I was also curious to see the number of burials each year in comparison to a timeline of Nashville history.  I found a timeline from the Nashville Historic Commission which divided Nashville's history into eras and I grouped burials by those eras and then plotted it against the timeline in a bar chart.  It's not surprising to see that the cemetery had the most burials during three of Nashville's eaerliest eras:  Rock City (1840s-1850s), The Occupied City (1860s) and Athens of the South (1870s-1900).  
 
 ![Marketing Materials page 1](../main/images/citycemeterypg1.jpg)
 
