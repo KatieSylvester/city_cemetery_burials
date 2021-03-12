@@ -6,9 +6,10 @@
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
-* [Data Exploration Questions](#data)
-* [Analysis](#analysis)
 * [Files in this Repository](#files)
+* [Data Exploration Questions](#data)
+* [Analysis/Conclusions](#analysis)
+<br>
 
 
 ## <a name="general-information"></a>General Information
@@ -22,6 +23,14 @@ We were tasked with exploring data on the Nashville City Cemetery utilizing Exce
 Project is created with:
 * Excel for analysis and data visualizations
 * Canva for marketing material design and layout
+<br>
+
+
+## <a name="files"></a>Files in this Repository
+The data analysis can be seen in the Excel file in the data folder.
+The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
+<br>
+
 
 ## <a name="data"></a>Data Exploration Questions
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
@@ -40,9 +49,10 @@ Project is created with:
     c.	There was a particularly famous person buried in this cemetery. Can you find that person?
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
+<br>
 
 
-## <a name="analysis"></a>Analysis
+## <a name="analysis"></a>Analysis/Conclusions
 This was a really messy data set, which was challenging, but it was interesting to explore.  Upon analyzing the data, I was interested to see that nearly half of the burials are women, which was surprising given the large number of Civil War related burials.  I was also curious to see the number of burials each year in comparison to a timeline of Nashville history.  I found a timeline from the Nashville Historic Commission which divided Nashville's history into eras and I grouped burials by those eras and then plotted it against the timeline in a bar chart.
 
 ![Marketing Materials page 1](../main/images/citycemeterypg1.jpg)
@@ -50,8 +60,3 @@ This was a really messy data set, which was challenging, but it was interesting 
 ![Marketing Materials page 2](../main/images/citycemeterypg2.jpg)
 
 
-<br>
-
-## <a name="files"></a>Files in this Repository
-The data analysis can be seen in the Excel file in the data folder.
-The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
