@@ -12,10 +12,9 @@
 
 
 ## <a name="general-information"></a>General Information
-We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
-The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
+We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by creating a marketing piece.
 <br>
 
 
