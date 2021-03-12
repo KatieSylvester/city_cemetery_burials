@@ -1,17 +1,34 @@
 ## The Nashville City Cemetery
-
+<br>
+<br>
 ![Top 10 Causes of Death](../main/images/Top10CausesRevised.png)
+<br>
+<br>
 
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies](#technologies)
+* [Data Exploration Questions](#data)
+* [Files in this Repository](#files)
+<br>
+<br>
 
-#### We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
-
--------------------------------------------
-### Data Exploration Questions
-
+## <a name="general-information"></a>General Information
+We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by developing a marketing piece.
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
+<br>
+<br>
 
+## <a name="technologies"></a>Technologies
+Project is created with:
+* Excel for analysis and data visualizations
+* Canva for marketing material design and layout
+<br>
+<br>
+
+## <a name="data"></a>Data Exploration Questions
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a bar chart. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. 
 
 2. Create a line chart showing number of burials per year. In what years were there the most burials? Can you think of any plausible reason why?
@@ -40,8 +57,9 @@ Create a new sheet for each pivot table or analysis work done to create a visual
 ![Marketing Materials page 2](../main/images/citycemeterypg2.jpg)
 
 
--------------------------------------------
-### How to read this repository
+<br>
+<br>
 
+## <a name="files"></a>Files in this Repository
 The data analysis can be seen in the Excel file in the data folder.
 The full PDF of the marketing materials is in the City_Cemetery_Marketing pdf file.
