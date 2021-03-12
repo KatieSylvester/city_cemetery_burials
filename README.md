@@ -18,13 +18,11 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 <br>
-<br>
 
 ## <a name="technologies"></a>Technologies
 Project is created with:
 * Excel for analysis and data visualizations
 * Canva for marketing material design and layout
-<br>
 <br>
 
 ## <a name="data"></a>Data Exploration Questions
@@ -45,7 +43,6 @@ Project is created with:
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 <br>
-<br>
 
 ## <a name="analysis"></a>Analysis
 Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
@@ -55,7 +52,6 @@ Create a new sheet for each pivot table or analysis work done to create a visual
 ![Marketing Materials page 2](../main/images/citycemeterypg2.jpg)
 
 
-<br>
 <br>
 
 ## <a name="files"></a>Files in this Repository
