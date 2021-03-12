@@ -14,7 +14,7 @@
 ## <a name="general-information"></a>General Information
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
-We were tasked with exploring data provided by The Nashville City Cemetery Association utilizing Excel to gain insights and then further the data story by creating a marketing piece.
+We were tasked with exploring data on the Nashville City Cemetery utilizing Excel to gain insights and then further the data story by creating a marketing piece.
 <br>
 
 
@@ -43,7 +43,7 @@ Project is created with:
 
 
 ## <a name="analysis"></a>Analysis
-Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
+Upon analyzing the data, I was interested to see the number of burials each year in comparison to a timeline of Nashville history.  I found a Nashville timeline .
 
 ![Marketing Materials page 1](../main/images/citycemeterypg1.jpg)
 
