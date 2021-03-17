@@ -1,6 +1,6 @@
 ## The Nashville City Cemetery
 
-![Top 10 Causes of Death](../main/images/Top10Causes3.png)
+![Top 10 Causes of Death](../main/images/Top10CausesRevised.png)
 
 
 ## Table of Contents
