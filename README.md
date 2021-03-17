@@ -1,13 +1,12 @@
 ## The Nashville City Cemetery
 
-![Top 10 Causes of Death](../main/images/Top10CausesRevised.png)
+![Top 10 Causes of Death](../main/images/Top10Causes3.png)
 
 
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
-* [Data Exploration Questions](#data)
 * [Analysis/Conclusions](#analysis)
 <br>
 
@@ -20,7 +19,6 @@ We were tasked with exploring data on the Nashville City Cemetery utilizing Exce
 <br>
 
 ## <a name="technologies"></a>Technologies
-Project is created with:
 * Excel for analysis and data visualizations
 * Canva for marketing material design and layout
 <br>
